@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **FernandoSotres/FernandoSotres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Fernando Sotres, a Psychologist and Digital Business executive, passionate about Data Science and Statistics, with a deep and wide-ranging curiosity about how the world works.
+
+🌱 I’m currently learning Data Science, focusing on: Python, Pandas, NumPy, Seaborn, Statistics, Probability, SQL, Data Analytics, Data Visualization, Machine Learning, and more.
+
+
